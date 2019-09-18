@@ -1,3 +1,3 @@
-FOR (var i = 0; i < ; i++) {
+for (var i = 0; i < ; i++) {
 
 }
